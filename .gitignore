@@ -1,0 +1,7 @@
+build/*
+*~.nib
+*~.swp
+.DS_Store
+*.model
+Matchismo.xcodeproj/project.xcworkspace/xcuserdata/
+Matchismo.xcodeproj/xcuserdata/
